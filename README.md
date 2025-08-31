@@ -1,2 +1,1 @@
-# Adharsh-Aravindan-
-Computer networks practical
+#Computer networks practical
